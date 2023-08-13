@@ -6,14 +6,17 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ___
 ### Skills:
 
-<img src='assets/html.png' alt='html' height='40'><img src='assets/css-3.png' alt='css' height='40'><img src='assets/js.png' alt='js' height='40'>
+<img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png' alt='html' height='40'>
+<img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png' alt='css' height='40'>
+<img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png' alt='js' height='40'>
+
 ___
 
 ### I also use additional development tools in my projects:
 
-<img src='https://logos-download.com/wp-content/uploads/2018/05/Gulp_logo_cube-450x450.png' alt='html' height='40'>
-<img src='assets/node-js.png' alt='html' height='40'>
-<img src='assets/figma.png' alt='html' height='40'>
+<img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gulp_icon_130557.png' alt='gulp' height='40'>
+<img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png' alt='nodejs' height='40'>
+<img src='https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png' alt='html' height='40'>
 
 
 ___
