@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Ruslan
 ### I'm a web programmer
-<img src='https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif' alt='html' height='500'>
+<img src='https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif' alt='html' height='400'>
 
 ___
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
@@ -13,7 +13,7 @@ ___
 
 ### I also use additional development tools in my projects:
 
-<img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gulp_icon_130557.png' alt='gulp' height='100'> <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png' alt='nodejs' height='100'> <img src='https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png' alt='html' height='100'>
+<img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gulp_icon_130557.png' alt='gulp' height='100'> <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png' alt='nodejs' height='100'> <img src='https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png' alt='html' height='100'> <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png' alt='html' height='100'>
 
 
 ___
