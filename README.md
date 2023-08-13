@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Ruslan
 ### I'm a web programmer
-<img src='https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif' alt='html' height='600'>
+<img src='https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif' alt='html' height='500'>
 
 ___
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
@@ -25,8 +25,8 @@ ___
 
 ___
 ### Mt socials:
-[<img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png' alt='github' height='100'>](https://github.com/Dorkads) 
-[<img src='https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png' alt='instagram' height='100'>](https://www.instagram.com/rutibais/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='100'>](https://t.me/rutibais)  
+[<img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png' alt='github' height='100'>](https://github.com/Dorkads) 
+[<img src='https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png' alt='instagram' height='100'>](https://www.instagram.com/rutibais/)  [<img src='https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png' alt='telegram' height='100'>](https://t.me/rutibais)
 ___
 
 ### My Git stats:
